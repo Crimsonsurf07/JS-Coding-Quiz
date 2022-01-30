@@ -68,7 +68,7 @@ let questions = [
   },
   {
     numb: 7,
-    question: "What Will This Return? Boolean(5 < 7)",
+    question: "What Will This Return?<br> Boolean(5 < 7)",
     answer: "true",
     options: [
       "false",
