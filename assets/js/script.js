@@ -165,7 +165,7 @@ function resultRender() {
 userInfo.addEventListener("click", function() {
     var contactInfo = document.getElementById("contactInfo").value;
 
-    localStorage.setItem("contactInfo", JSON.stringify (contactInfo));
+    localStorage.setItem("contactInfo", JSON.stringify(contactInfo));
     localStorage.setItem("timeLeft", JSON.stringify(timeLeft));
     
     loadScores();
