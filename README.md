@@ -31,25 +31,47 @@ Below is a screenshot from the Original Mock-Up image provided to us to use for 
 
 This assignment was challenging in ways I honestly wasn’t expecting. Throughout the project and utilizing dev tools I was able to to fix any bugs I had written into the code. I think I may have created this project at least a dozen times each progressively better than the previous version. I like to push myself with the knowledge I have and I utilized a bunch of different reference material as much as possible to assist me with completing this project into a functioning quiz.
 
-Below is a series of Screen Shots Illustrating some of the prompt questions the user will be asked.:
+Below is a screenshot of my JavaScript Coding Quiz with the Time, High Scores link, as the quiz instructions. Once the user click the start button the quiz will begin!
+
 
 ![Screen Shot 2022-01-31 at 7 57 12 PM](https://user-images.githubusercontent.com/73037339/151897495-689f0347-9b2b-4e42-9c31-24197525a09a.png)
+
+
+
+
+Here is a one of the questions the user will be asked during the quiz with a series of 4 possible answers to choose from:
 
 
 ![Screen Shot 2022-01-31 at 7 57 28 PM](https://user-images.githubusercontent.com/73037339/151897554-b48a6070-0d2d-47d0-9e31-0388b150c1ad.png)
 
 
-If the user inputs an answer that does not fit the criteria, they will be notified on the issue and asked to try again!
+
+
+If the question presented is answered correctly then the user will see the word “Correct!” Displayed below the answer options
+
 
 ![Screen Shot 2022-01-31 at 7 58 00 PM](https://user-images.githubusercontent.com/73037339/151897570-784e3423-4b87-434e-9b76-b6724170e40e.png)
 
 
 
+If the question is answered incorrectly the user will be notified in a similar way just with the word “Wrong!” instead
+
 
 ![Screen Shot 2022-01-31 at 7 58 14 PM](https://user-images.githubusercontent.com/73037339/151897610-71713adb-64f5-4bf4-8bc8-23793e2bd284.png)
+
+
+
+When the user runs out of time OR all of the questions have been answered, the quiz will be finished. The user will be shown their score as well as see the words “All done!. An input box will be displayed for the user to enter their name
 
 
 ![Screen Shot 2022-01-31 at 7 58 35 PM](https://user-images.githubusercontent.com/73037339/151897632-b494001a-98f0-43c4-8843-73959f165436.png)
 
 
+
+If the user has taken the quiz before they will see a drop down with the name already recorded in which they can select to autofill the input box.
+
+
 ![Screen Shot 2022-01-31 at 7 58 52 PM](https://user-images.githubusercontent.com/73037339/151897654-de188dcb-c285-49b0-8441-66aef9da7b3b.png)
+
+
+  
